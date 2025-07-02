@@ -1,3 +1,19 @@
+<p align="center">
+  <img src="assets/register.png" alt="User Registration" width="700"/>
+  <br/>
+  <b>User Registration API in Postman</b>
+</p>
+<p align="center">
+  <img src="assets/login.png" alt="User Login" width="700"/>
+  <br/>
+  <b>User Login API in Postman</b>
+</p>
+<p align="center">
+  <img src="assets/get-products.png" alt="Get Products" width="700"/>
+  <br/>
+  <b>Get Products API in Postman</b>
+</p>
+
 # Java E-commerce Backend
 
 A professional, production-ready e-commerce backend built with Java, Spring Boot, and MySQL. This project provides secure REST APIs for user management, product catalog, shopping cart, and order processing, following best practices in architecture and security.
